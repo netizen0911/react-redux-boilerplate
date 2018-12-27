@@ -1,3 +1,5 @@
+A full featured boilerplate for building a ReactJS and Redux application.
+
 # Git Commands
 
 git init - Create a new git repo
